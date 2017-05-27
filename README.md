@@ -1,2 +1,3 @@
 # h0ge.net
-my home page
+
+fonts/Makinas.woffは漢字を削っているので漢字を使う際はもう一度サブセット化が必要
